@@ -1,0 +1,29 @@
+1. Java Concurrency Fundamentals
+BlockingQueue: Thread-safe queue for producer-consumer patterns
+
+ExecutorService: Thread pool management
+
+Runnable Interface: Creating tasks that run in separate threads
+
+Thread Safety: Preventing race conditions and data corruption
+
+2. Design Patterns
+Producer-Consumer Pattern: One thread produces work, another consumes it
+
+Thread Pool Pattern: Reusing threads for better performance
+
+Queue-based Processing: Decoupling request handling from processing
+
+3. Database Concepts
+ACID Properties: Atomicity, Consistency, Isolation, Durability
+
+Transaction Management: Ensuring data consistency
+
+Audit Trails: Tracking changes for compliance
+
+
+
+
+
+
+
